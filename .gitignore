@@ -1,0 +1,7 @@
+# Mojang binaries and everything derived from them stay local.
+work/
+*.zip
+bedrock_server
+*.npz
+__pycache__/
+.venv/
